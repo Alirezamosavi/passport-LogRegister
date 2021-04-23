@@ -1,5 +1,13 @@
 # passport-LogRegister
 
+Video link: How to install Passport in Laravel 8 ( part 1)
+
+https://youtu.be/5Hiz9SvgRhI
+
+Video link: Create API Rest with Laravel 8 Passport Authentication( part 2)
+
+https://youtu.be/0058Vv7KAJY
+
                                  How to install Passport in Laravel
 
 Step 1. composer require laravel/passport
